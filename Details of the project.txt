@@ -1,0 +1,7 @@
+Name: P0002 Your Todos React Beginner Course 2024 (Vite, Tailwind CSS, TypeScript)
+
+Followed this Tutorial from Coding in Flow 
+https://www.youtube.com/watch?v=siTUv1L9ymM&list=PLrnPJCHvNZuDG6BWjUFVxeWyYlve_SVJO
+
+Project Started: 3 May 2024
+Project Finished: 3 May 2024
